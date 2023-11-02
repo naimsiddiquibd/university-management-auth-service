@@ -1,0 +1,28 @@
+{
+  "name": "university-management-auth-service",
+  "version": "1.0.0",
+  "description": "It is a personal project that I created during my eighth semester's web application course.",
+  "main": "src/server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "university",
+    "management",
+    "naim",
+    "siddiqui",
+    "daffodil",
+    "international",
+    "university"
+  ],
+  "author": "Naim Siddiqui",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.0"
+  }
+}
